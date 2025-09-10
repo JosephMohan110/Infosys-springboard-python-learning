@@ -68,6 +68,7 @@ print(lista)
 lista=list(range(11))
 print(lista)
 
+
 lista=[1,2,3,5]
 print(lista)
 lista[3]=4
